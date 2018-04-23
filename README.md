@@ -1,5 +1,5 @@
 <h2  align="center">Mario-Bot-Python</h2>
-<p  align="center">A Discord bot made with Discord.py that allows me to compare with Nodejs</p>
+<p  align="center">A Discord bot made with Discord.py that allows me to compare with Discord.js</p>
 
 <br/>
 
